@@ -30,5 +30,5 @@ The homeworks of this class usually require us to build machine learning models 
 Please refer to the jupyter notebooks in each homework directory for details.
 
 ## Final projects 
-- 
-- For codes, please refer to [this repo](https://github.com/shengyenlin/Statistical-learning-and-deep-learning-Final-2020-Fall)
+- We participated in a Kaggle competition - Credit Card Fraud Detection.
+- For more details and codes, please refer to [this repo](https://github.com/shengyenlin/Statistical-learning-and-deep-learning-Final-2020-Fall)
